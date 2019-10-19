@@ -1,0 +1,41 @@
+.下{
+    position:relative;
+    top:485px;
+}
+.下下{
+    position:relative;
+    top:490px;
+}
+div{
+    text-align:center;
+    position:relative;
+    top:70px;
+
+}
+.box3{
+    position:relative;
+    top:110px;
+    
+}
+.box4{
+    position:relative;
+    top:65px;
+    margin-left:710px;
+    
+}
+.右{
+    position:absolute;
+    right:0;
+}
+.下线{
+    position:relative;
+    top:435px;
+    height:1px;
+    border-top:1px solid gray;
+}
+.上线{
+    position:relative;
+    height:1px;
+    border-top:1px solid gray;
+    top:10px;
+}
